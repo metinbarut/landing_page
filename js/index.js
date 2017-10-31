@@ -88,7 +88,7 @@ if (xresult !== null) {
   location.reload();
 } else {
   alert("USERID and PASSWORD SUCCESFULLY CREATED");
-    window.location.replace("http://dropbox.com");
+    window.location.replace("https://dropbox.com");
   }
 
 });
