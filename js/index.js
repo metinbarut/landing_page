@@ -87,7 +87,7 @@ $('.tab a').on('click', function (e) {
 if (xresult !== null) {
   location.reload();
 } else {
-  alert("USERID and PASSWORD SUCCESFULLY CREATED");
+  alert("USERID and PASSWORD SUCCESFULLY CREATED. Please check your email and confirm the notification before using edgeSDk Application");
     window.location.replace("https://dropbox.com");
   }
 
